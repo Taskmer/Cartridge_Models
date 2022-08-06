@@ -1,0 +1,46 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 4
+
+newmtl o19.002
+Ns 563.587446
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.110000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\PC\\Downloads\\illust8.jpg
+
+newmtl o6.004
+Ns 610.210056
+Ka 0.811594 0.811594 0.811594
+Kd 0.400000 0.400000 0.400000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\PC\\Downloads\\b4bdbc063b513549ce592b1081b6b60c.jpg
+
+newmtl o6.006
+Ns 565.765666
+Ka 0.826087 0.826087 0.826087
+Kd 0.400000 0.400000 0.400000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\PC\\Downloads\\istockphoto-1002922450-170667a.jpg
+
+newmtl o6.010
+Ns 802.192765
+Ka 1.000000 1.000000 1.000000
+Kd 0.780392 0.568627 0.113725
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\PC\\Downloads\\evren-natural-gold-3d-texture-seamless-pbr-material-high-res-free-downlox-4k-6.jpg
