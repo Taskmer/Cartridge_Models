@@ -1,0 +1,68 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 6
+
+newmtl o14.001
+Ns 585.557614
+Ka 0.985507 0.985507 0.985507
+Kd 0.713726 0.427451 0.180392
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\PC\\Downloads\\Metal-copper-background-vector-04.jpg
+
+newmtl o14.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.300000 0.300000 0.300000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\PC\\Downloads\\istockphoto-1002922450-170667a.jpg
+
+newmtl o14.003
+Ns 384.759513
+Ka 1.000000 1.000000 1.000000
+Kd 0.713726 0.427451 0.180392
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\PC\\Downloads\\illust8.jpg
+
+newmtl o19
+Ns 585.557614
+Ka 1.000000 1.000000 1.000000
+Kd 0.713726 0.427451 0.180392
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\PC\\Downloads\\Metal-copper-background-vector-04.jpg
+
+newmtl o6
+Ns 568.714853
+Ka 0.826087 0.826087 0.826087
+Kd 0.780400 0.568600 0.113700
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\PC\\Downloads\\evren-natural-gold-3d-texture-seamless-pbr-material-high-res-free-downlox-4k-6.jpg
+
+newmtl o6.004
+Ns 285.992449
+Ka 0.434783 0.434783 0.434783
+Kd 0.400000 0.400000 0.400000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\PC\\Downloads\\b4bdbc063b513549ce592b1081b6b60c.jpg
